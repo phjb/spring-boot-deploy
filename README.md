@@ -61,7 +61,7 @@ Este é um projeto Spring Boot que fornece uma estrutura robusta para implantaç
    
     Criando o banco de dados com o comando:
     
-    `docker-compose -f docker/mysql-token-jwt/docker-compose.yml up -d`   
+    `docker-compose -f docker-compose.yml up -d`   
       <br>
 4. **Compilação e Execução:**
    * Execute o aplicativo usando o Maven: `mvn spring-boot:run`.
