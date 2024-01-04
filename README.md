@@ -58,12 +58,12 @@ Este é um projeto Spring Boot que fornece uma estrutura robusta para implantaç
              - "5438:5432"
            environment:
              POSTGRES_PASSWORD: example
-    ``` 
-   
-    Criando o banco de dados com o comando:
+      ```
     
-    `docker-compose -f docker-compose.yml up -d`   
+    Criando o banco de dados com o comando: `docker-compose -f docker-compose.yml up -d`
+
       <br>
+    
 4. **Compilação e Execução:**
    * Execute o aplicativo usando o Maven: `mvn spring-boot:run`.
 
