@@ -67,4 +67,4 @@ Este é um projeto Spring Boot que fornece uma estrutura robusta para implantaç
    * Execute o aplicativo usando o Maven: `mvn spring-boot:run`.
 
 ## Licença
-Este projeto é licenciado sob a [Licença MIT](https://opensource.org/license/mit/).
+Este projeto é licenciado sob a [Licença MIT](LICENSE).
