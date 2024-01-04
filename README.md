@@ -44,6 +44,7 @@ Este é um projeto Spring Boot que fornece uma estrutura robusta para implantaç
     spring.jpa.show-sql=true
     ```
     <br>
+    
    2. Criando o arquivo `docker-compose.yml` no diretório.
 
       ```yaml
